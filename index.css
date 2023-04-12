@@ -45,7 +45,6 @@ nav #check{
 }
 
 nav .checkbtn{
-    float: right;
     cursor: pointer;
     line-height: 80px;
     font-size: 25px;
@@ -72,10 +71,6 @@ nav .checkbtn{
     }
      nav ul li a:hover{
         color: blue;
-    }
-
-    nav ul li{
-        display: block;
     }
 
 
